@@ -3,7 +3,7 @@ Un curso increíble para el [Curso de Git y Github](http://https://platzi.com/cl
 >El curso de Git y Github es lo que me hacía falta para triplicar mi salario y lanzarme a la industria del diseño remoto con machine learning
 > - Niñita
 
-###En este curso vemos de todo: 
+## En este curso vemos de todo: 
 * Todos los comandos de Git
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
